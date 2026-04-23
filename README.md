@@ -1,6 +1,6 @@
 # 👨‍💻 Paulo Dogarden
 
-Me chamo Paulo Dogarden, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente estou graduando em Análise e Desenvolvimento de Sistemas pela Unisinos - São Leopoldo.
+Me chamo Paulo Dogarden, tenho 21 anos e sou natural do Rio Grande do Sul. Atualmente estou graduando em Análise e Desenvolvimento de Sistemas pela Unisinos - São Leopoldo.
 
 ---
 
